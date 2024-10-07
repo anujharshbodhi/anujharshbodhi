@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Anuj.<br><br>🔭 Working on AI projects.<br>🤝 Open to AI/ML collaborations.<br>🌱 Learning advanced machine learning.<br>💬 Ask me about Python.<br>🎯 Love creating smart solutions.
+#  About Me:
+Hi, I'm Anuj.<br><br> Working on AI projects.<br> Open to AI/ML collaborations.<br> Learning advanced machine learning.<br> Ask me about Python.<br> Love creating smart solutions.
 
 
 ## 🌐 Socials:
